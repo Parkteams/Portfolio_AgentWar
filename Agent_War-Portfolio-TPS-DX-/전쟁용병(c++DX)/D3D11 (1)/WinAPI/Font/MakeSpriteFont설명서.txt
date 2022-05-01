@@ -1,0 +1,18 @@
+window + r 로 실행창
+
+열기 cmd 입력후 확인후 명령프롬포트창
+
+cd 탐색기에서복사한 Font경로 입력
+
+예) C:\Users\Song>cd C:\Users\Song\Downloads\D3D11\WinAPI\Font
+
+폰트 만들기
+                      (트루타입글꼴명)  (파일이름)        (옵션)
+MakeSpriteFont "Courier New" myfileb.spritefont /FontSize:32 /FontStyle:Bold
+
+옵션
+/FontSize:value
+/FontStyle:value  (Regular Bold Italic Strikeout Underline)
+/LineSpacing:value
+/CharacterSpacing:value
+/Sharp

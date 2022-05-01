@@ -1,0 +1,69 @@
+Matrix (행x렬)
+
+
+정점(1x4) x Matrix(4x4) -> transform
+
+정리
+
+행렬과 행렬의 곱연산
+ex) 2x3 X 3x2 -> 2x2
+    2x2 X 4x4 -> 곱이 되지않음
+교환법칙 성립하지 않는다 AB != BA
+
+
+영 행렬
+0
+
+단위 행렬 
+1
+
+역 행렬
+-1승
+
+전치 행렬
+행과열의 멤버가 바뀐행렬
+
+
+
+변환행렬(4x4)
+
+Scalling Matrix
+Scale(x,y,z)
+S.x 0 0 0
+0 S.y 0 0
+0 0 S.z 0
+0 0  0  1
+
+이동변환행렬
+Translation Matrix
+Position(xyz)
+1   0  0  0
+0   1  0  0
+0   0  1  0
+Px Py Pz  1
+
+
+Rotation Matrix
+RotationZ (x,y값이 바뀌는 회전행렬)
+c  s  0  0  Right(c  s)
+-s c  0  0  Up(-s c)
+0  0  1  0
+0  0  0  1
+
+공간 변환
+(로컬,모델)  (월드)
+  L    ->     W
+Vertex * (S * R * T)
+
+P 부모행렬
+
+W *= P(SRT,RT)
+부모의 위치에서 떨어진값으로 기존멤버들이 바뀐다
+
+V 행렬
+ 
+eye(1)카메라위치
+look(1) 찍는 위치
+up(0) 위를 보는 방향
+카메라 기준으로 정점을 재배치
+역이동, 역회전이 이루어진다.

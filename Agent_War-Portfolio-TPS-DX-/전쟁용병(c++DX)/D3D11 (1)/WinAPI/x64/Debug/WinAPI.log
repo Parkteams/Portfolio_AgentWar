@@ -1,0 +1,63 @@
+﻿  ACS.cpp
+  Bazooka.cpp
+C:\Users\texte\Desktop\포폴\Portfolio_AgentWar\Agent_War-Portfolio-TPS-DX-\전쟁용병(c++DX)\D3D11 (1)\WinAPI\Character\Bazooka.cpp(237,19): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  NPC1.cpp
+  NPC2.cpp
+  Bush.cpp
+  Rock.cpp
+  Quest_Item.cpp
+  EditerScene.cpp
+  House1.cpp
+  House2.cpp
+  HUD.cpp
+  Armor.cpp
+  HealPack.cpp
+  Ammunition.cpp
+  Character.cpp
+  Player.cpp
+C:\Users\texte\Desktop\포폴\Portfolio_AgentWar\Agent_War-Portfolio-TPS-DX-\전쟁용병(c++DX)\D3D11 (1)\WinAPI\Character\Player.cpp(553,50): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\Portfolio_AgentWar\Agent_War-Portfolio-TPS-DX-\전쟁용병(c++DX)\D3D11 (1)\WinAPI\Character\Player.cpp(577,50): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\Portfolio_AgentWar\Agent_War-Portfolio-TPS-DX-\전쟁용병(c++DX)\D3D11 (1)\WinAPI\Character\Player.cpp(601,50): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\Portfolio_AgentWar\Agent_War-Portfolio-TPS-DX-\전쟁용병(c++DX)\D3D11 (1)\WinAPI\Character\Player.cpp(625,50): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Item.cpp
+  Money.cpp
+  Obstacle.cpp
+  LoadingScene.cpp
+  SpriteText.cpp
+  Light.cpp
+  ObImage.cpp
+  ObCircle.cpp
+  ObLine.cpp
+  ObRect.cpp
+  ObStar.cpp
+  SceneManager.cpp
+  Scene1.cpp
+  Scene2.cpp
+  Cam.cpp
+  Shader.cpp
+  Input.cpp
+  MainGame.cpp
+  Object.cpp
+  Timer.cpp
+  Texture.cpp
+  Sound.cpp
+  Sniper.cpp
+C:\Users\texte\Desktop\포폴\Portfolio_AgentWar\Agent_War-Portfolio-TPS-DX-\전쟁용병(c++DX)\D3D11 (1)\WinAPI\Character\Sniper.cpp(236,19): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Soldier.cpp
+C:\Users\texte\Desktop\포폴\Portfolio_AgentWar\Agent_War-Portfolio-TPS-DX-\전쟁용병(c++DX)\D3D11 (1)\WinAPI\Character\Soldier.cpp(265,19): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Storm.cpp
+C:\Users\texte\Desktop\포폴\Portfolio_AgentWar\Agent_War-Portfolio-TPS-DX-\전쟁용병(c++DX)\D3D11 (1)\WinAPI\Character\Storm.cpp(268,19): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Tile.cpp
+  TileMap.cpp
+C:\Users\texte\Desktop\포폴\Portfolio_AgentWar\Agent_War-Portfolio-TPS-DX-\전쟁용병(c++DX)\D3D11 (1)\WinAPI\TileMap\TileMap.cpp(243,39): warning C4267: '=': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\Portfolio_AgentWar\Agent_War-Portfolio-TPS-DX-\전쟁용병(c++DX)\D3D11 (1)\WinAPI\TileMap\TileMap.cpp(260,24): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\texte\Desktop\포폴\Portfolio_AgentWar\Agent_War-Portfolio-TPS-DX-\전쟁용병(c++DX)\D3D11 (1)\WinAPI\TileMap\TileMap.cpp(262,28): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Tree1.cpp
+  Tree2.cpp
+  WatchTower.cpp
+  Weapon_Shop.cpp
+  Vehicle_Shop.cpp
+  WinAPI.cpp
+LINK : warning LNK4075: '/INCREMENTAL'이(가) '/PROFILE' 사양으로 인해 무시됩니다.
+ACS.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/OPT:REF' 사양으로 인해 무시됩니다.
+  WinAPI.vcxproj -> C:\Users\texte\Desktop\포폴\Portfolio_AgentWar\Agent_War-Portfolio-TPS-DX-\전쟁용병(c++DX)\D3D11 (1)\x64\Debug\WinAPI.exe
